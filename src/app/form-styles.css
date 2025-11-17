@@ -1,0 +1,159 @@
+/* Custom styles for react-jsonschema-form */
+
+.story-form {
+  color: #ededed;
+}
+
+.story-form fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.story-form legend {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #f4c430;
+}
+
+.story-form .form-group {
+  margin-bottom: 1.5rem;
+}
+
+.story-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #ededed;
+}
+
+.story-form .field-description {
+  font-size: 0.875rem;
+  color: #999;
+  margin-top: 0.25rem;
+}
+
+.story-form input[type="text"],
+.story-form textarea,
+.story-form select {
+  width: 100%;
+  padding: 0.75rem;
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 0.5rem;
+  color: #ededed;
+  font-family: inherit;
+  font-size: 0.938rem;
+  transition: border-color 0.2s;
+}
+
+.story-form input[type="text"]:focus,
+.story-form textarea:focus,
+.story-form select:focus {
+  outline: none;
+  border-color: #f4c430;
+}
+
+.story-form textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.story-form select {
+  cursor: pointer;
+}
+
+.story-form button[type="submit"] {
+  background: #f4c430;
+  color: #0a0a0a;
+  padding: 0.875rem 2rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-top: 1rem;
+}
+
+.story-form button[type="submit"]:hover {
+  background: #d4a020;
+}
+
+/* Array field buttons */
+.story-form .array-item {
+  background: #0f0f0f;
+  border: 1px solid #2a2a2a;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.story-form .array-item-toolbox {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.story-form .btn-group button,
+.story-form .array-item-toolbox button {
+  padding: 0.5rem 1rem;
+  background: #333;
+  color: #ededed;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: background 0.2s;
+}
+
+.story-form .btn-group button:hover,
+.story-form .array-item-toolbox button:hover {
+  background: #444;
+}
+
+.story-form .btn-add {
+  background: #2563eb !important;
+}
+
+.story-form .btn-add:hover {
+  background: #1d4ed8 !important;
+}
+
+.story-form .array-item-remove {
+  background: #dc2626 !important;
+}
+
+.story-form .array-item-remove:hover {
+  background: #b91c1c !important;
+}
+
+.story-form .array-item-move-up,
+.story-form .array-item-move-down {
+  background: #6b7280 !important;
+}
+
+.story-form .array-item-move-up:hover,
+.story-form .array-item-move-down:hover {
+  background: #4b5563 !important;
+}
+
+/* Error messages */
+.story-form .error-detail,
+.story-form .text-danger {
+  color: #ef4444;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+/* Required field asterisk */
+.story-form .required {
+  color: #ef4444;
+}
+
+/* Nested array items (like shots inside scenes) */
+.story-form .array-item .array-item {
+  background: #1a1a1a;
+  border-color: #333;
+}

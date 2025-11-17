@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "lastUpdated": 1762266428322,
+  "plugins": [
+    {
+      "filename": "search-specialist.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/search-specialist.md",
+        "filename": "search-specialist.md",
+        "name": "search-specialist",
+        "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 1862,
+        "contentHash": "d74f9e7d3368d74672a24968e6e0e11e7ef050c88214554ef9fefec7cb3a999c",
+        "installedAt": 1762266379861,
+        "updatedAt": 1762266379861
+      }
+    },
+    {
+      "filename": "task-decomposition-expert.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/task-decomposition-expert.md",
+        "filename": "task-decomposition-expert.md",
+        "name": "task-decomposition-expert",
+        "description": "Complex goal breakdown specialist. Use PROACTIVELY for multi-step projects requiring different capabilities. Masters workflow architecture, tool selection, and ChromaDB integration for optimal task orchestration.",
+        "tools": [
+          "Read",
+          "Write"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 5136,
+        "contentHash": "07671577361079bf38f1ac91d9ac946e13f5fa9a261922dc33077a5d3f4642cd",
+        "installedAt": 1762266383756,
+        "updatedAt": 1762266383756
+      }
+    },
+    {
+      "filename": "prompt-engineer.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/prompt-engineer.md",
+        "filename": "prompt-engineer.md",
+        "name": "prompt-engineer",
+        "description": "Expert prompt optimization for LLMs and AI systems. Use PROACTIVELY when building AI features, improving agent performance, or crafting system prompts. Masters prompt patterns and techniques.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 3147,
+        "contentHash": "6e5d842f3e796ace83e28df3c71e34d309f1fbb8a3b4f92b1c8d0c757de201b6",
+        "installedAt": 1762266386009,
+        "updatedAt": 1762266386009
+      }
+    },
+    {
+      "filename": "product-strategist.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/business-marketing/product-strategist.md",
+        "filename": "product-strategist.md",
+        "name": "product-strategist",
+        "description": "Product strategy and roadmap planning specialist. Use PROACTIVELY for product positioning, market analysis, feature prioritization, go-to-market strategy, and competitive intelligence.",
+        "tools": [
+          "Read",
+          "Write",
+          "WebSearch"
+        ],
+        "category": "business-marketing",
+        "type": "agent",
+        "size": 7961,
+        "contentHash": "f5a097ef427ecb3cef25313c8d0376407057311f2f1c0a2348e276101a0290ad",
+        "installedAt": 1762266393185,
+        "updatedAt": 1762266393185
+      }
+    },
+    {
+      "filename": "ai-engineer.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/data-ai/ai-engineer.md",
+        "filename": "ai-engineer.md",
+        "name": "ai-engineer",
+        "description": "LLM application and RAG system specialist. Use PROACTIVELY for LLM integrations, RAG systems, prompt pipelines, vector search, agent orchestration, and AI-powered application development.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit",
+          "Bash"
+        ],
+        "category": "data-ai",
+        "type": "agent",
+        "size": 1267,
+        "contentHash": "16b4f153208818009995e81ffc760c6c33c49d55acb947bd002c0e2251403b55",
+        "installedAt": 1762266395097,
+        "updatedAt": 1762266395097
+      }
+    },
+    {
+      "filename": "backend-architect.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/development-team/backend-architect.md",
+        "filename": "backend-architect.md",
+        "name": "backend-architect",
+        "description": "Backend system architecture and API design specialist. Use PROACTIVELY for RESTful APIs, microservice boundaries, database schemas, scalability planning, and performance optimization.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit",
+          "Bash"
+        ],
+        "category": "development-team",
+        "type": "agent",
+        "size": 1236,
+        "contentHash": "c1c2182d062228507390bcf9d9e96d18918c5bd97d0177f1ab0abd2ef85c1b98",
+        "installedAt": 1762266403349,
+        "updatedAt": 1762266403349
+      }
+    },
+    {
+      "filename": "supabase-schema-architect.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/database/supabase-schema-architect.md",
+        "filename": "supabase-schema-architect.md",
+        "name": "supabase-schema-architect",
+        "description": "Supabase database schema design specialist. Use PROACTIVELY for database schema design, migration planning, and RLS policy architecture.",
+        "tools": [
+          "Read",
+          "Write",
+          "Edit",
+          "Bash"
+        ],
+        "category": "database",
+        "type": "agent",
+        "size": 4415,
+        "contentHash": "2bcf2dc25e19e5d729d8b5084403a8eca6e8698668a49428f33b7b561dd2e4a9",
+        "installedAt": 1762266410044,
+        "updatedAt": 1762266410044
+      }
+    },
+    {
+      "filename": "hackathon-ai-strategist.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/hackathon-ai-strategist.md",
+        "filename": "hackathon-ai-strategist.md",
+        "name": "hackathon-ai-strategist",
+        "description": "Expert hackathon strategist and judge. Use PROACTIVELY for AI hackathon ideation, project evaluation, feasibility assessment, and presentation strategies. Specializes in winning concepts within time constraints.",
+        "tools": [
+          "Read",
+          "WebSearch",
+          "WebFetch"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 2968,
+        "contentHash": "abe5692c764b40316f3b3319b0a546970bfc92f7de43eb6c556d922dd02414ff",
+        "installedAt": 1762266421548,
+        "updatedAt": 1762266421548
+      }
+    },
+    {
+      "filename": "ai-ethics-advisor.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/ai-ethics-advisor.md",
+        "filename": "ai-ethics-advisor.md",
+        "name": "ai-ethics-advisor",
+        "description": "AI ethics and responsible AI development specialist. Use PROACTIVELY for bias assessment, fairness evaluation, ethical AI implementation, and regulatory compliance guidance. Expert in AI safety and alignment.",
+        "tools": [
+          "Read",
+          "Write",
+          "WebSearch",
+          "Grep"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 7024,
+        "contentHash": "eb5f9f4978b71ba06f129c73f5573a58fda76481fc803b1b333b1106256ac897",
+        "installedAt": 1762266424085,
+        "updatedAt": 1762266424085
+      }
+    },
+    {
+      "filename": "llms-maintainer.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/llms-maintainer.md",
+        "filename": "llms-maintainer.md",
+        "name": "llms-maintainer",
+        "description": "LLMs.txt roadmap file generator and maintainer. Use PROACTIVELY after build completion, content changes, or when implementing AEO (AI Engine Optimization). Scans site structure and updates AI crawler navigation.",
+        "tools": [
+          "Read",
+          "Write",
+          "Bash",
+          "Grep",
+          "Glob"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 3397,
+        "contentHash": "a7b6ef6247c7c8039e44ace6453eed60eceff2126cb58f2a0cb56c0f70893dc6",
+        "installedAt": 1762266425700,
+        "updatedAt": 1762266425700
+      }
+    },
+    {
+      "filename": "model-evaluator.md",
+      "type": "agent",
+      "metadata": {
+        "sourcePath": "agents/ai-specialists/model-evaluator.md",
+        "filename": "model-evaluator.md",
+        "name": "model-evaluator",
+        "description": "AI model evaluation and benchmarking specialist. Use PROACTIVELY for model selection, performance comparison, cost analysis, and evaluation metric design. Expert in LLM capabilities and limitations.",
+        "tools": [
+          "Read",
+          "Write",
+          "Bash",
+          "WebSearch"
+        ],
+        "category": "ai-specialists",
+        "type": "agent",
+        "size": 5198,
+        "contentHash": "3b6a9fd4e849dc657eb4ffd8d64b3e7051d97c6396c7ba8b47dbe09914d81817",
+        "installedAt": 1762266428322,
+        "updatedAt": 1762266428322
+      }
+    }
+  ]
+}

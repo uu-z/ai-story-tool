@@ -1,0 +1,134 @@
+{
+  "title": "The Little Match Girl's Last Night",
+  "synopsis": "On a cold, snowy night in the old city, a little girl attempts to sell matches door-to-door, but every passerby ignores her. Seeking refuge in a corner, she lights a series of matches to seek warmth and visions. Each flame conjures a beautiful illusion: a roaring stove, a lavish feast with roast goose, and finally, a magnificent Christmas tree and fireworks. In the final moments, she sees her beloved grandmother smiling in the matchlight. Lighting the entire bundle, the girl is embraced by golden light before being discovered peacefully smiling at dawn, surrounded only by burned matchsticks.",
+  "style": "3D Cartoon",
+  "aspectRatio": "16:9",
+  "characters": [
+    {
+      "name": "Little Girl",
+      "description": "A young girl with blonde hair, wearing tattered clothes, carrying matches",
+      "prompt": "Cute 3D cartoon character, young girl with big eyes, blonde hair, wearing worn brown coat and boots, holding a small bundle of matches, innocent and hopeful expression"
+    },
+    {
+      "name": "Passersby",
+      "description": "Various people in warm winter clothes who ignore the girl",
+      "prompt": "3D cartoon characters in Victorian era clothing, adults in coats and hats, walking past indifferently"
+    },
+    {
+      "name": "Grandmother",
+      "description": "The girl's deceased grandmother, appearing as a warm spirit",
+      "prompt": "Kind elderly woman in 3D cartoon style, glowing with warm light, gentle smile, wearing old-fashioned dress"
+    }
+  ],
+  "scenes": [
+    {
+      "title": "Scene 1: Street Peddling Rejected",
+      "description": "In the harsh cold of a snowy night, the @Little Girl attempts to sell matches, but indifferent @Passersby rush past her.",
+      "shots": [
+        {
+          "subtitle": "On a bitter, snowy evening, the little match seller walked the lonely, cobblestone streets.",
+          "location": "A dimly lit, narrow cobblestone street in an old European city, covered with a fresh layer of snow, with tall, dark buildings lining both sides.",
+          "content": "The @Little Girl, clutching a small bundle of matches, walks slowly through the snow-covered street, her breath visible in the cold air. A few @Passersby hurry past, pulling their coats tighter, ignoring her presence."
+        },
+        {
+          "subtitle": "But every door remained closed to her pleas.",
+          "location": "The same narrow cobblestone street, illuminated unevenly by gas lamps casting long, blue shadows.",
+          "content": "Several bundled @Passersby hurry past the @Little Girl; one figure pointedly turns away. The girl looks down momentarily, dejected, then continues walking forward with determination."
+        },
+        {
+          "subtitle": "The cold deepened as the last hope of sales vanished.",
+          "location": "The same narrow cobblestone street, now almost deserted, with heavy snow beginning to fall again.",
+          "content": "The @Little Girl stops walking, momentarily defeated, looking down at the few matches left in her small bundle as snow falls heavily around her."
+        }
+      ]
+    },
+    {
+      "title": "Scene 2: Pausing at the Shop Window",
+      "description": "The @Little Girl pauses before a brightly lit shop window, momentarily captivated by the warmth and food inside, before turning away to face the cold.",
+      "shots": [
+        {
+          "subtitle": "She stopped where the light was brightest, dreaming of warmth.",
+          "location": "In front of a brightly lit bakery shop window with warm yellow light spilling onto the snowy street.",
+          "content": "The @Little Girl stands before the shop window, her face illuminated by the warm glow from inside. Through the glass, we see steaming bread and pastries. She places a cold hand on the window, gazing longingly."
+        }
+      ]
+    },
+    {
+      "title": "Scene 3: Curling Up in the Corner",
+      "description": "In a nook between two walls, the @Little Girl curls up and hugs her knees as snow falls on her shoulders and hair.",
+      "shots": [
+        {
+          "subtitle": "In the nook between two walls, she curls up and hugs her knees; snow falls on her shoulders and hair tips, and her breath, pale as mist, quickly fades.",
+          "location": "A dark corner formed by two brick walls meeting at an angle, with snow accumulating on the ground.",
+          "content": "The @Little Girl curls up tightly in the corner, hugging her knees close to her chest. Snow gently falls on her shoulders and hair. Her breath creates small clouds of mist that dissipate quickly in the cold air."
+        }
+      ]
+    },
+    {
+      "title": "Scene 4: First Match - Vision of the Stove",
+      "description": "The @Little Girl lights her first match; a glowing vision of a warm iron stove materializes before her.",
+      "shots": [
+        {
+          "subtitle": "She lights the first match; the tiny flame is like a small sun. An iron stove seems right before her, red tongues of fire driving back the cold.",
+          "location": "The same dark corner, but now illuminated by a small, warm match flame.",
+          "content": "The @Little Girl strikes a match, and a warm glow illuminates her face. In the magical light, a vision of a beautiful iron stove appears before her, with red flames dancing inside, radiating warmth."
+        }
+      ]
+    },
+    {
+      "title": "Scene 5: Second Match - Vision of the Feast",
+      "description": "When the second match flares, a lavish table appears; the roast goose seems to slide toward her, golden juices gurgling into a little pool on the plate.",
+      "shots": [
+        {
+          "subtitle": "When the second match flares, a lavish table appears; the roast goose seems to slide toward her, golden juices gurgling into a little pool on the plate.",
+          "location": "The corner, now transformed by match light into a warm dining room setting.",
+          "content": "As the @Little Girl lights the second match, a magnificent feast materializes before her. A golden roast goose on a platter appears to move toward her, with steam rising and golden juices pooling on the plate. Her eyes widen with wonder and hunger."
+        }
+      ]
+    },
+    {
+      "title": "Scene 6: Third Match - Christmas Tree and Fireworks",
+      "description": "The third match reveals a magnificent, glowing Christmas tree covered with candles, with colorful fireworks bursting in the sky beyond.",
+      "shots": [
+        {
+          "subtitle": "The third match ignites a magnificent Christmas tree; thousands of candles flicker on green branches, and colorful stars seem to fall like fireworks.",
+          "location": "The corner space magically expands into a grand room with a towering Christmas tree.",
+          "content": "The @Little Girl lights the third match, and a spectacular Christmas tree appears, decorated with countless glowing candles. Through a magical window, colorful fireworks burst in the night sky, creating a dazzling display of lights."
+        }
+      ]
+    },
+    {
+      "title": "Scene 7: Grandmother Appears",
+      "description": "In the brightest flame yet, the girl's @Grandmother appears, smiling gently, bathed in warm golden light.",
+      "shots": [
+        {
+          "subtitle": "In the brightest light yet, Grandmother appeared—warm, gentle, surrounded by a golden glow, smiling as she had before.",
+          "location": "The corner, now filled entirely with warm, golden light.",
+          "content": "As the @Little Girl lights multiple matches together, her @Grandmother appears in the brilliant golden glow, her arms outstretched welcomingly. The grandmother's figure radiates warmth and love, smiling tenderly at the girl."
+        }
+      ]
+    },
+    {
+      "title": "Scene 8: Final Embrace",
+      "description": "The @Little Girl lights the entire bundle of matches, and is embraced by her @Grandmother in a brilliant golden light.",
+      "shots": [
+        {
+          "subtitle": "Desperate not to lose her, the little girl lit the whole bundle. The blaze rose like the sun, and Grandmother held her close, lifting her into brilliant light.",
+          "location": "The corner is now completely transformed into pure, radiant golden light.",
+          "content": "The @Little Girl lights all her remaining matches at once, creating a brilliant blaze. Her @Grandmother embraces her warmly, and together they rise into the golden light, leaving the dark, cold corner behind."
+        }
+      ]
+    },
+    {
+      "title": "Scene 9: Dawn Discovery",
+      "description": "At dawn, the @Little Girl is discovered, peacefully smiling, surrounded only by spent matchsticks.",
+      "shots": [
+        {
+          "subtitle": "When dawn broke, she was found—still smiling, frozen in peace, surrounded by a small pile of burned matches.",
+          "location": "The corner at dawn, with soft morning light illuminating the scene.",
+          "content": "In the soft light of dawn, the @Little Girl sits in the corner, a peaceful smile on her face. Around her, a small pile of burned matchsticks lies scattered on the snow. The harsh reality of the cold morning contrasts with her serene expression."
+        }
+      ]
+    }
+  ]
+}
